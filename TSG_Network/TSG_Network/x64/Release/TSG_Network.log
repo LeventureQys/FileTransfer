@@ -1,0 +1,22 @@
+﻿  Reading Qt configuration (E:/Leventure/DevTools/Qt/5.14.2/msvc2017_64/bin/qmake)
+  moc SouthQtNetwork\Api\FileTransfer_Server.h
+  TSG_Network_Client.cpp
+  TSG_Network_Server.cpp
+  FileTransfer_Client.cpp
+  FileTransfer_Server.cpp
+  QtTcpBaseHandler.cpp
+  QtTcpClientHandler.cpp
+  QtTCPServerHandler.cpp
+  QtUdpHandler.cpp
+  TSG_Network.cpp
+  main.cpp
+  qrc_TSG_Network.cpp
+  moc_TSG_Network.cpp
+  moc_QtTcpClientHandler.cpp
+  moc_QtTCPServerHandler.cpp
+  moc_QtUdpHandler.cpp
+  moc_FileTransfer_Client.cpp
+  moc_TSG_Network_Server.cpp
+  moc_TSG_Network_Client.cpp
+  moc_FileTransfer_Server.cpp
+  TSG_Network.vcxproj -> E:\Leventure\WorkShop\脚本\边开发边测试\TSG_Network\x64\Release\TSG_Network.exe

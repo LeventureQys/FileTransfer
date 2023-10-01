@@ -1,0 +1,13 @@
+﻿  moc Api\TSG_Network_Client.h
+  moc Api\TSG_Network_Server.h
+  FileTransfer_Client.cpp
+  FileTransfer_Server.cpp
+  TSG_Network_Client.cpp
+  TSG_Network_Server.cpp
+  QtTcpBaseHandler.cpp
+  QtTcpClientHandler.cpp
+  QtTCPServerHandler.cpp
+  QtUdpHandler.cpp
+E:\CurrentWorking\trunk\TSG_Project\PublicItem\SouthQtNetwork\TCP\Server\QtTCPServerHandler.cpp(5,10): fatal  error C1083: 无法打开包括文件: “QNetworkInterface”: No such file or directory
+E:\CurrentWorking\trunk\TSG_Project\PublicItem\SouthQtNetwork\Api\FileTransfer_Client.h(11,10): fatal  error C1083: 无法打开包括文件: “QtConcurrent”: No such file or directory (编译源文件 Src\TSG_Network_Client.cpp)
+E:\CurrentWorking\trunk\TSG_Project\PublicItem\SouthQtNetwork\Api\FileTransfer_Client.h(11,10): fatal  error C1083: 无法打开包括文件: “QtConcurrent”: No such file or directory (编译源文件 FileTransfer\FileTransfer_Client.cpp)

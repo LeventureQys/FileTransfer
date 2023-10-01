@@ -1,0 +1,13 @@
+﻿  Reading Qt configuration (E:/Leventure/DevTools/Qt6/6.5.1/msvc2019_64/bin/qmake)
+  moc Api\QtUdpHandler.h
+  moc Api\QtTCPServerHandler.h
+  moc Api\QtTcpClientHandler.h
+  QtTcpBaseHandler.cpp
+  QtTcpClientHandler.cpp
+  QtTCPServerHandler.cpp
+  QtUdpHandler.cpp
+  moc_QtUdpHandler.cpp
+  moc_QtTCPServerHandler.cpp
+  moc_QtTcpClientHandler.cpp
+    正在创建库 E:\Leventure\WorkShop\TSG\trunk\TSG_Project\x64\Release\SouthQtNetwork.lib 和对象 E:\Leventure\WorkShop\TSG\trunk\TSG_Project\x64\Release\SouthQtNetwork.exp
+  SouthQtNetwork.vcxproj -> E:\Leventure\WorkShop\TSG\trunk\TSG_Project\x64\Release\SouthQtNetwork.dll

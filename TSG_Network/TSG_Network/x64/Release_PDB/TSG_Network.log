@@ -1,0 +1,58 @@
+﻿  QtTcpBaseHandler.cpp
+  TSG_Network.cpp
+  main.cpp
+  qrc_TSG_Network.cpp
+  moc_TSG_Network.cpp
+  moc_QtTcpClientHandler.cpp
+  moc_QtTCPServerHandler.cpp
+  moc_QtUdpHandler.cpp
+  moc_FileTransfer_Server.cpp
+  moc_FileTransfer_Client.cpp
+  moc_TSG_Network_Server.cpp
+  moc_TSG_Network_Client.cpp
+E:\CurrentWorking\trunk\TSG_Project\测试DEMO\TSG_Network\TSG_Network\x64\Release_PDB\moc\moc_TSG_Network_Server.cpp(95,26): warning C4273: “TSG_Netwrok_Server::qt_static_metacall”: dll 链接不一致
+E:\CurrentWorking\trunk\TSG_Project\测试DEMO\TSG_Network\TSG_Network\SouthQtNetwork\Api\TSG_Network_Server.h(10,2): message : 参见“qt_static_metacall”的前一个定义 (编译源文件 x64\Release_PDB\moc\moc_TSG_Network_Server.cpp)
+E:\CurrentWorking\trunk\TSG_Project\测试DEMO\TSG_Network\TSG_Network\x64\Release_PDB\moc\moc_TSG_Network_Server.cpp(156,58): warning C4273: “staticMetaObject”: dll 链接不一致
+E:\CurrentWorking\trunk\TSG_Project\测试DEMO\TSG_Network\TSG_Network\SouthQtNetwork\Api\TSG_Network_Server.h(10,2): message : 参见“public: static QMetaObject const TSG_Netwrok_Server::staticMetaObject”的前一个定义 (编译源文件 x64\Release_PDB\moc\moc_TSG_Network_Server.cpp)
+E:\CurrentWorking\trunk\TSG_Project\测试DEMO\TSG_Network\TSG_Network\x64\Release_PDB\moc\moc_TSG_Network_Server.cpp(156,77): error C2491: “TSG_Netwrok_Server::staticMetaObject”: 不允许 dllimport 静态数据成员 的定义
+E:\CurrentWorking\trunk\TSG_Project\测试DEMO\TSG_Network\TSG_Network\x64\Release_PDB\moc\moc_TSG_Network_Server.cpp(166,40): warning C4273: “TSG_Netwrok_Server::metaObject”: dll 链接不一致
+E:\CurrentWorking\trunk\TSG_Project\测试DEMO\TSG_Network\TSG_Network\SouthQtNetwork\Api\TSG_Network_Server.h(10,2): message : 参见“metaObject”的前一个定义 (编译源文件 x64\Release_PDB\moc\moc_TSG_Network_Server.cpp)
+E:\CurrentWorking\trunk\TSG_Project\测试DEMO\TSG_Network\TSG_Network\x64\Release_PDB\moc\moc_TSG_Network_Server.cpp(171,27): warning C4273: “TSG_Netwrok_Server::qt_metacast”: dll 链接不一致
+E:\CurrentWorking\trunk\TSG_Project\测试DEMO\TSG_Network\TSG_Network\SouthQtNetwork\Api\TSG_Network_Server.h(10,2): message : 参见“qt_metacast”的前一个定义 (编译源文件 x64\Release_PDB\moc\moc_TSG_Network_Server.cpp)
+E:\CurrentWorking\trunk\TSG_Project\测试DEMO\TSG_Network\TSG_Network\x64\Release_PDB\moc\moc_TSG_Network_Server.cpp(179,25): warning C4273: “TSG_Netwrok_Server::qt_metacall”: dll 链接不一致
+E:\CurrentWorking\trunk\TSG_Project\测试DEMO\TSG_Network\TSG_Network\SouthQtNetwork\Api\TSG_Network_Server.h(10,2): message : 参见“qt_metacall”的前一个定义 (编译源文件 x64\Release_PDB\moc\moc_TSG_Network_Server.cpp)
+E:\CurrentWorking\trunk\TSG_Project\测试DEMO\TSG_Network\TSG_Network\x64\Release_PDB\moc\moc_TSG_Network_Server.cpp(197,26): warning C4273: “TSG_Netwrok_Server::Sig_NewConn”: dll 链接不一致
+E:\CurrentWorking\trunk\TSG_Project\测试DEMO\TSG_Network\TSG_Network\SouthQtNetwork\Api\TSG_Network_Server.h(34,7): message : 参见“Sig_NewConn”的前一个定义 (编译源文件 x64\Release_PDB\moc\moc_TSG_Network_Server.cpp)
+E:\CurrentWorking\trunk\TSG_Project\测试DEMO\TSG_Network\TSG_Network\x64\Release_PDB\moc\moc_TSG_Network_Server.cpp(204,26): warning C4273: “TSG_Netwrok_Server::Sig_NewDisConn”: dll 链接不一致
+E:\CurrentWorking\trunk\TSG_Project\测试DEMO\TSG_Network\TSG_Network\SouthQtNetwork\Api\TSG_Network_Server.h(35,7): message : 参见“Sig_NewDisConn”的前一个定义 (编译源文件 x64\Release_PDB\moc\moc_TSG_Network_Server.cpp)
+E:\CurrentWorking\trunk\TSG_Project\测试DEMO\TSG_Network\TSG_Network\x64\Release_PDB\moc\moc_TSG_Network_Server.cpp(211,26): warning C4273: “TSG_Netwrok_Server::Sig_NewDisConnEx”: dll 链接不一致
+E:\CurrentWorking\trunk\TSG_Project\测试DEMO\TSG_Network\TSG_Network\SouthQtNetwork\Api\TSG_Network_Server.h(36,7): message : 参见“Sig_NewDisConnEx”的前一个定义 (编译源文件 x64\Release_PDB\moc\moc_TSG_Network_Server.cpp)
+E:\CurrentWorking\trunk\TSG_Project\测试DEMO\TSG_Network\TSG_Network\x64\Release_PDB\moc\moc_TSG_Network_Server.cpp(218,26): warning C4273: “TSG_Netwrok_Server::Sig_Warning”: dll 链接不一致
+E:\CurrentWorking\trunk\TSG_Project\测试DEMO\TSG_Network\TSG_Network\SouthQtNetwork\Api\TSG_Network_Server.h(37,7): message : 参见“Sig_Warning”的前一个定义 (编译源文件 x64\Release_PDB\moc\moc_TSG_Network_Server.cpp)
+E:\CurrentWorking\trunk\TSG_Project\测试DEMO\TSG_Network\TSG_Network\x64\Release_PDB\moc\moc_TSG_Network_Server.cpp(225,26): warning C4273: “TSG_Netwrok_Server::Sig_Info”: dll 链接不一致
+E:\CurrentWorking\trunk\TSG_Project\测试DEMO\TSG_Network\TSG_Network\SouthQtNetwork\Api\TSG_Network_Server.h(38,7): message : 参见“Sig_Info”的前一个定义 (编译源文件 x64\Release_PDB\moc\moc_TSG_Network_Server.cpp)
+E:\CurrentWorking\trunk\TSG_Project\测试DEMO\TSG_Network\TSG_Network\x64\Release_PDB\moc\moc_TSG_Network_Server.cpp(232,26): warning C4273: “TSG_Netwrok_Server::Sig_RecvClnMsg”: dll 链接不一致
+E:\CurrentWorking\trunk\TSG_Project\测试DEMO\TSG_Network\TSG_Network\SouthQtNetwork\Api\TSG_Network_Server.h(40,7): message : 参见“Sig_RecvClnMsg”的前一个定义 (编译源文件 x64\Release_PDB\moc\moc_TSG_Network_Server.cpp)
+E:\CurrentWorking\trunk\TSG_Project\测试DEMO\TSG_Network\TSG_Network\x64\Release_PDB\moc\moc_TSG_Network_Client.cpp(95,26): warning C4273: “TSG_Network_Client::qt_static_metacall”: dll 链接不一致
+E:\CurrentWorking\trunk\TSG_Project\测试DEMO\TSG_Network\TSG_Network\SouthQtNetwork\Api\TSG_Network_Client.h(11,2): message : 参见“qt_static_metacall”的前一个定义 (编译源文件 x64\Release_PDB\moc\moc_TSG_Network_Client.cpp)
+E:\CurrentWorking\trunk\TSG_Project\测试DEMO\TSG_Network\TSG_Network\x64\Release_PDB\moc\moc_TSG_Network_Client.cpp(156,58): warning C4273: “staticMetaObject”: dll 链接不一致
+E:\CurrentWorking\trunk\TSG_Project\测试DEMO\TSG_Network\TSG_Network\SouthQtNetwork\Api\TSG_Network_Client.h(11,2): message : 参见“public: static QMetaObject const TSG_Network_Client::staticMetaObject”的前一个定义 (编译源文件 x64\Release_PDB\moc\moc_TSG_Network_Client.cpp)
+E:\CurrentWorking\trunk\TSG_Project\测试DEMO\TSG_Network\TSG_Network\x64\Release_PDB\moc\moc_TSG_Network_Client.cpp(156,77): error C2491: “TSG_Network_Client::staticMetaObject”: 不允许 dllimport 静态数据成员 的定义
+E:\CurrentWorking\trunk\TSG_Project\测试DEMO\TSG_Network\TSG_Network\x64\Release_PDB\moc\moc_TSG_Network_Client.cpp(166,40): warning C4273: “TSG_Network_Client::metaObject”: dll 链接不一致
+E:\CurrentWorking\trunk\TSG_Project\测试DEMO\TSG_Network\TSG_Network\SouthQtNetwork\Api\TSG_Network_Client.h(11,2): message : 参见“metaObject”的前一个定义 (编译源文件 x64\Release_PDB\moc\moc_TSG_Network_Client.cpp)
+E:\CurrentWorking\trunk\TSG_Project\测试DEMO\TSG_Network\TSG_Network\x64\Release_PDB\moc\moc_TSG_Network_Client.cpp(171,27): warning C4273: “TSG_Network_Client::qt_metacast”: dll 链接不一致
+E:\CurrentWorking\trunk\TSG_Project\测试DEMO\TSG_Network\TSG_Network\SouthQtNetwork\Api\TSG_Network_Client.h(11,2): message : 参见“qt_metacast”的前一个定义 (编译源文件 x64\Release_PDB\moc\moc_TSG_Network_Client.cpp)
+E:\CurrentWorking\trunk\TSG_Project\测试DEMO\TSG_Network\TSG_Network\x64\Release_PDB\moc\moc_TSG_Network_Client.cpp(179,25): warning C4273: “TSG_Network_Client::qt_metacall”: dll 链接不一致
+E:\CurrentWorking\trunk\TSG_Project\测试DEMO\TSG_Network\TSG_Network\SouthQtNetwork\Api\TSG_Network_Client.h(11,2): message : 参见“qt_metacall”的前一个定义 (编译源文件 x64\Release_PDB\moc\moc_TSG_Network_Client.cpp)
+E:\CurrentWorking\trunk\TSG_Project\测试DEMO\TSG_Network\TSG_Network\x64\Release_PDB\moc\moc_TSG_Network_Client.cpp(197,26): warning C4273: “TSG_Network_Client::Sig_Connected”: dll 链接不一致
+E:\CurrentWorking\trunk\TSG_Project\测试DEMO\TSG_Network\TSG_Network\SouthQtNetwork\Api\TSG_Network_Client.h(29,7): message : 参见“Sig_Connected”的前一个定义 (编译源文件 x64\Release_PDB\moc\moc_TSG_Network_Client.cpp)
+E:\CurrentWorking\trunk\TSG_Project\测试DEMO\TSG_Network\TSG_Network\x64\Release_PDB\moc\moc_TSG_Network_Client.cpp(204,26): warning C4273: “TSG_Network_Client::Sig_Disconnect”: dll 链接不一致
+E:\CurrentWorking\trunk\TSG_Project\测试DEMO\TSG_Network\TSG_Network\SouthQtNetwork\Api\TSG_Network_Client.h(30,7): message : 参见“Sig_Disconnect”的前一个定义 (编译源文件 x64\Release_PDB\moc\moc_TSG_Network_Client.cpp)
+E:\CurrentWorking\trunk\TSG_Project\测试DEMO\TSG_Network\TSG_Network\x64\Release_PDB\moc\moc_TSG_Network_Client.cpp(211,26): warning C4273: “TSG_Network_Client::Sig_RecvTCP”: dll 链接不一致
+E:\CurrentWorking\trunk\TSG_Project\测试DEMO\TSG_Network\TSG_Network\SouthQtNetwork\Api\TSG_Network_Client.h(31,7): message : 参见“Sig_RecvTCP”的前一个定义 (编译源文件 x64\Release_PDB\moc\moc_TSG_Network_Client.cpp)
+E:\CurrentWorking\trunk\TSG_Project\测试DEMO\TSG_Network\TSG_Network\x64\Release_PDB\moc\moc_TSG_Network_Client.cpp(218,26): warning C4273: “TSG_Network_Client::Sig_RecvNewFile”: dll 链接不一致
+E:\CurrentWorking\trunk\TSG_Project\测试DEMO\TSG_Network\TSG_Network\SouthQtNetwork\Api\TSG_Network_Client.h(32,7): message : 参见“Sig_RecvNewFile”的前一个定义 (编译源文件 x64\Release_PDB\moc\moc_TSG_Network_Client.cpp)
+E:\CurrentWorking\trunk\TSG_Project\测试DEMO\TSG_Network\TSG_Network\x64\Release_PDB\moc\moc_TSG_Network_Client.cpp(225,26): warning C4273: “TSG_Network_Client::Sig_Warning”: dll 链接不一致
+E:\CurrentWorking\trunk\TSG_Project\测试DEMO\TSG_Network\TSG_Network\SouthQtNetwork\Api\TSG_Network_Client.h(34,7): message : 参见“Sig_Warning”的前一个定义 (编译源文件 x64\Release_PDB\moc\moc_TSG_Network_Client.cpp)
+E:\CurrentWorking\trunk\TSG_Project\测试DEMO\TSG_Network\TSG_Network\x64\Release_PDB\moc\moc_TSG_Network_Client.cpp(232,26): warning C4273: “TSG_Network_Client::Sig_Info”: dll 链接不一致
+E:\CurrentWorking\trunk\TSG_Project\测试DEMO\TSG_Network\TSG_Network\SouthQtNetwork\Api\TSG_Network_Client.h(35,7): message : 参见“Sig_Info”的前一个定义 (编译源文件 x64\Release_PDB\moc\moc_TSG_Network_Client.cpp)
